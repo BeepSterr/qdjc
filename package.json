@@ -1,0 +1,8 @@
+{
+  "name": "qdjc",
+  "version": "1.0.0",
+  "description": "cli json validation for specific directory",
+  "main": "qdjc.js",
+  "author": "Nioxed",
+  "license": "ISC"
+}
